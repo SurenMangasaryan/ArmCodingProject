@@ -1,0 +1,92 @@
+.second-seciton,
+.fourth-seciton {
+    padding: 30px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-title,
+.partner-title {
+    text-align: center;
+}
+
+.cards,
+.partners {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 50px;
+    margin: 50px 0;
+}
+
+.card,
+.partner {
+    width: 434px;
+    height: 482px;
+    border-radius: 14px;
+    background-color: #DDDDDD;
+    box-sizing: border-box;
+}
+
+.greenBack-div {
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.product-greenBack {
+    position: absolute;
+    right: -5%;
+    top: 0%;
+}
+
+.product-text {
+    position: absolute;
+    right: 18%;
+    left: 81%;
+    transform: rotate(43deg);
+    line-height: 5.5;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.wetsuit-div {
+    margin-top: 85px;
+    margin-bottom: -30px;
+}
+
+.product-description {
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 305px;
+    padding-left: 31px;
+}
+
+.about-wetsuit {
+    padding: 31px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cm,
+.layer,
+.pcs {
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+}
+
+.cm {
+    color: #12724F;
+    border: 1px solid #12724F;
+    padding: 5px;
+    border-radius: 14px;
+}
+
+.seeMore {
+    display: flex;
+    justify-content: center;
+}

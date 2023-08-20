@@ -1,0 +1,24 @@
+.services-section {
+    padding-top: 180px;
+}
+
+.service-left-side,
+.service-right-side {
+    width: 50%;
+    padding: 70px 70px;
+}
+
+.service-description {
+    width: 541px;
+}
+
+.service-left-side {
+    padding-bottom: 100px;
+    background-image: url('../../assets/images/general/FifthSection/Ellipse\ 29.png');
+    background-repeat: no-repeat;
+    background-position: 0px 250px;
+}
+
+.services{
+    position: relative;
+}

@@ -1,0 +1,26 @@
+.tops-div {
+    position: relative;
+    margin-top: -60px;
+    margin-bottom: 10px;
+}
+
+.tops-card {
+    margin-top: 20px;
+}
+
+.tops-div>img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+}
+
+.tops-cm {
+    margin-top: -20px;
+    font-size: 12px;
+}
+
+.tops-description {
+    margin-top: 330px;
+    margin-bottom: 20px;
+}

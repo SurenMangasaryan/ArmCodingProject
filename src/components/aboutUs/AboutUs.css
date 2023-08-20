@@ -1,0 +1,52 @@
+.about {
+    padding-top: 110px;
+}
+
+.about-us{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-left-side,
+.about-right-side,
+.about-left2-side,
+.about-right2-side {
+    width: 50%;
+    padding: 0 20px;
+}
+
+.medics-img {
+    margin-top: 60px;
+}
+
+.about-left-side,
+.about-left2-side {
+    padding-left: 50px;
+}
+
+.about-left-side {
+    height: 520px;
+    background-image: url('../../assets/images/general/FifthSection/Ellipse\ 29.png');
+    background-repeat: no-repeat;
+    background-position: -60px 240px;
+}
+
+.about-right2-side {
+    height: 520px;
+    background-image: url('../../assets/images/general/FirstSection&ThirthSection/Ellipse\ 1.png');
+    background-repeat: no-repeat;
+    background-position: 350px 120px;
+}
+
+.about-description,
+.about-description2 {
+    width: 629px;
+}
+
+.about-description {
+    margin-top: -20px;
+}
+
+.about-description2{
+    margin-top: -100px;
+}

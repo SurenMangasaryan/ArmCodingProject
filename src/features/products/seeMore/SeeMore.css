@@ -1,0 +1,27 @@
+.see-more {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 60px;
+    column-gap: 20px;
+    padding-top: 50px;
+}
+
+.h3-titles {
+    color: #12724F;
+    font-weight: 700;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.see-more-left-side,
+.see-more-right-side{
+    width: 50%;
+}
+
+.see-more-wetsuits{
+    justify-content: flex-start;
+    column-gap: 20px;
+    padding: 5px 0;
+    margin-top: 10px;
+}

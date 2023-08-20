@@ -1,0 +1,41 @@
+.first-section,
+.thirth-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F4F9FF;
+    padding: 30px 80px;
+}
+
+.left-side,
+.right-side {
+    width: 50%;
+}
+
+.left-side {
+    margin-top: -60px;
+}
+
+.right-side {
+    height: 500px;
+    background-image: url('../../../assets/images/general/FirstSection&ThirthSection/Ellipse\ 1.png');
+    background-repeat: no-repeat;
+    background-position: 380px 120px;
+}
+
+.first-in-Arm,
+.product-title,
+.contact-now,
+.about-us,
+.partner-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #12724F;
+}
+
+.description {
+    font-weight: 600;
+    color: #1E1E1E;
+    margin: 30px 0;
+    width: 541px;
+}

@@ -1,0 +1,29 @@
+.nav {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding: 20px 70px;
+    background-color: white;
+    z-index: 100;
+}
+
+.navbar,
+.panels-list,
+.flag {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.panels-list {
+    column-gap: 30px;
+    font-weight: 700;
+}
+
+.flag {
+    column-gap: 5px;
+}
+
+.active {
+    color: #12724F;
+}

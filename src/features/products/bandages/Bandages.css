@@ -1,0 +1,9 @@
+.bandages-section{
+    margin-top: -50px;
+}
+
+.bandages {
+    justify-content: flex-start;
+    width: 100%;
+    column-gap: 20px;
+}
